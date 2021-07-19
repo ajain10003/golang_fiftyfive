@@ -49,7 +49,7 @@ I selected a cobra library to create this so we can scale to be manageble comman
 
 # How to execute the build
 move to root direcotry where main.go file exist then execute
-Go run build 
+## Go run build 
 it will create a binary, i am attaching generated binary as well
 
 
